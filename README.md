@@ -25,3 +25,11 @@ Você precisa ter o [Python](https://www.python.org/) instalado em sua máquina.
 1. Clone este repositório:
    ```bash
    git clone [https://github.com/Thiagos0uza/Jogo-do-Pescador.git](https://github.com/Thiagos0uza/Jogo-do-Pescador.git)
+pip install pygame
+🛠️ Tecnologias Utilizadas
+Linguagem: Python 3
+
+Biblioteca Gráfica: Pygame (Community Edition)
+
+Conceitos Aplicados: Orientação a Objetos, Laços de Repetição, Tratamento de Eventos e Colisão.
+Desenvolvido por Thiago Gonçalves de Souza 🎓
