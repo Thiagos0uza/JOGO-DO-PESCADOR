@@ -1,4 +1,4 @@
-# 🥒 A Pescaria do Sr. Pepino
+# 🥒 A Pescaria do Pepino
 
 > Projeto Final da disciplina de Algoritmos e Programação de Computadores (APC) - Universidade de Brasília (UnB).
 
